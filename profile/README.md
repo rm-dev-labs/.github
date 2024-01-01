@@ -1,4 +1,3 @@
-<img align="left" width="40" alt="star" src="https://imgur.com/QYEEdAG.png"/>
 <img align="right" width="40" alt="star" src="https://imgur.com/QYEEdAG.png"/>
 
 <h1 align="center"> RM DEV LABS</h1>
